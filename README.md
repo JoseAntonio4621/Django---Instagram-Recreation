@@ -1,1 +1,1 @@
-# Django---Instagram-Recreation
+Recreation of the Instagram app with Django
